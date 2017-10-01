@@ -2,7 +2,7 @@
 
 
 ## Description
-Flask Framework for Python playground.
+Python Flask Framework playground.
 
 ## License
 
