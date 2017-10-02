@@ -1,4 +1,5 @@
 MANIFEST.in
+setup.cfg
 blog/__init__.py
 blog/blog.py
 blog/schema.sql
@@ -7,3 +8,7 @@ blog.egg-info/SOURCES.txt
 blog.egg-info/dependency_links.txt
 blog.egg-info/requires.txt
 blog.egg-info/top_level.txt
+blog/static/style.css
+blog/templates/layout.html
+blog/templates/login.html
+blog/templates/show_entries.html

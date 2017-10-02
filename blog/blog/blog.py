@@ -54,7 +54,6 @@ def get_db():
     return g.sqlite_db
 
 
-
 @app.cli.command('initdb')
 def initdb_command():
     """Initializes the database."""
